@@ -17,7 +17,7 @@
         </js-module>
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="Hello">
-                <param name="android-package" value="org.apache.cordova.hello"/>
+                <param name="android-package" value="org.apache.cordova.Hello"/>
             </feature>
         </config-file>
 
