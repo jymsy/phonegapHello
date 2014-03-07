@@ -8,7 +8,7 @@
     <description>Cordova Hello Test Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,hello</keywords>
-    <repo>https://git-wip-us.apache.org/repos/asf/cordova-plugin-device-motion.git</repo>
+    <repo>https://github.com/jymsy/phonegapHello.git</repo>
 
     <!-- android -->
     <platform name="android">
